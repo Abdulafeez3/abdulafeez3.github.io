@@ -1,5 +1,3 @@
-# abdulafeez3.github.io
-<!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8"/>
@@ -22,7 +20,7 @@
                     </div>
             </nav>
         </section>
-        <marquee behavior="scroll" direction="down" scroll-amount=1m"><p style="font-size: 50px; color:antiquewhite; text-align:center;">WELCOME TO THE HOME OF MOTIVATIONS</p></marquee>
+       <p style="font-size: 50px; color:antiquewhite; text-align:center;">WELCOME TO THE HOME OF MOTIVATIONS</p>
         <h2>Ready? Enter your details to catch your motivation</h2>
         <form action="" method="post">
             <div>
@@ -54,7 +52,7 @@
                 </select>
             </div>
             <button style="text-decoration-color: blue;">SHOW MY MOTIVATION</button>
-        </form>
+            </form>
         <div>
             <h3 style="text-decoration-color:blue ;">TODAY'S MOTIVATION</h3>
             <img src="moti/moti 1.jpg" alt="" width="400px" height="400px"> <img src="moti/moti2.jpg" alt="" width="400px" height="400px">
@@ -90,5 +88,5 @@
             </Table>
         </div>
         <h3 style= "color: rgb(255, 255, 255); text-align:center;"> Copyright © 2022, For: Alt_School HTML Mini Project</h3>
-    </body>
+ </body>
 </html>
