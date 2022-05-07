@@ -4,7 +4,7 @@
         <meta name= "Author" content="Mobile_comm.">
         <meta name= "keyword" content="Alt School HTML Project">
         <meta name= "viewport" content="width=device-width, initial scale=1.0">
-        <title>My project</title>
+        
     </head>
     <body style="background-color: rgb(255, 68, 0);">
         <section>
